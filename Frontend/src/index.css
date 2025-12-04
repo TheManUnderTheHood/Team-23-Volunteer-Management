@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f8fafc; /* light slate background */
+}
+
+/* Base styles for Tailwind v4 preflight adjustments */
+@layer base {
+  button {
+    cursor: pointer; /* Restore pointer cursor for buttons */
+  }
+}
