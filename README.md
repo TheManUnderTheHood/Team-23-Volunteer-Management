@@ -39,3 +39,33 @@ Frontend
 
 
 
+#Project Setup Steps
+
+Create Project Folder
+Make a new directory for the project and navigate into it.
+
+Backend Setup (Node.js + Express + MongoDB)
+Initialize project using npm init -y.
+Install required packages: express, mongoose, cors, dotenv, bcrypt, jsonwebtoken, nodemon.
+Create files & folders: server.js, config, models, routes, controllers, .env.
+Configure MongoDB connection using Mongoose.
+Run the server using nodemon server.js.
+
+Frontend Setup (React)
+
+Use npx create-react-app frontend to generate client structure.
+Install dependencies like axios and react-router-dom.
+Start UI using npm start.
+
+Connect Frontend & Backend
+Use Axios/Fetch in React to call backend APIs.
+Configure base API URL for organized communication.
+Initialize Git Version Control
+Run git init, commit initial files, and push to GitHub (optional).
+Run the Complete Project.
+
+Start backend: nodemon server.js.
+
+Start frontend: npm start.
+
+Application now runs locally (Frontend: 3000, Backend: 5000).
