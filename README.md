@@ -8,8 +8,34 @@ To overcome this, a Volunteer Management & Task Allocation System is required to
 
 
 
-
 #Tech Stack
 
 Backend
     Node.js & Express.js – Server-side development and API creation
+
+Database
+    MongoDB – To store volunteer records, tasks, attendance, allocations
+
+Frontend
+    HTML, CSS, JavaScript – Core technologies for building UI
+    React.js – For creating dynamic, responsive user interfaces
+    Tailwind CSS – For faster and modern UI styling
+
+Additional Tools
+    Git & GitHub – Version control and collaboration
+    Postman – API testing
+
+
+#Folder Structure
+
+Backend
+![alt text](image.png)
+
+Frontend
+
+
+
+#API documentation 
+
+
+
